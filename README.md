@@ -8,6 +8,7 @@ Pipeline Development Technical Director for Avatar Studios 🌊🌎🔥💨
 - 🎨 Focus departments have included Matte Painting, Lighting, Modeling and Fantasy
 - 🐕‍🦺 I have two German Shepherds; [Havoc and Astrid](http://www.instagram.com/derdoggens)
 - ✨ Gigantic Star Wars nerd
+- 🎻
 - 📸 Check out my costumes on my [Instagram](http://www.instagram.com/sewcorellian)
 
 Projects I've contributed code to:
