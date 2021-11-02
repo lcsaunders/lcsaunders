@@ -1,6 +1,4 @@
-Flameo, Hotman! 🔥  I'm Lisa Curtis Saunders.
-
-Pipeline Development Technical Director for Avatar Studios 🌊🌎🔥💨
+Flameo, Hotman! 🔥  I'm Lisa, Pipeline Development Technical Director for Avatar Studios 🌊🌎🔥💨
 
 - 🐍 Python developer since 2009
 - 🎬 VFX/Animation pipeline technician, also since 2009
