@@ -2,8 +2,8 @@ Flameo, Hotman! 🔥  I'm Lisa, Pipeline Development Technical Director for Avat
 
 - 🐍 Python developer since 2009
 - 🎬 VFX/Animation pipeline technician, also since 2009
-- 🌱 I’m currently learning Blender and Unreal
-- 🎨 Focus departments have included Matte Painting, Lighting, Modeling and Fantasy
+- 🌱 I’m currently learning Blender
+- 🎨 Focus departments have included 3D Story, Editorial, Matte Painting, Lighting, Modeling and Fantasy
 - 🐕‍🦺 I have two German Shepherds; [Havoc and Astrid](http://www.instagram.com/derdoggens)
 - ✨ Gigantic Star Wars nerd
 - 🎻 Viola is life 
