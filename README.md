@@ -2,7 +2,7 @@ Flameo, Hotman! 🔥  I'm Lisa, Pipeline Development Technical Director for Avat
 
 - 🐍 Python developer since 2009
 - 🎬 VFX/Animation pipeline technician, also since 2009
-- 🌱 I’m currently learning Blender
+- 🌱 I’m currently learning Unreal Engine
 - 🎨 Focus departments have included 3D Story, Editorial, Matte Painting, Lighting, Modeling and Fantasy
 - 🐕‍🦺 I have two German Shepherds; [Havoc and Astrid](http://www.instagram.com/derdoggens)
 - ✨ Gigantic Star Wars nerd
@@ -26,8 +26,7 @@ Projects I've contributed code to:
 - [The Boss Baby: Family Business](https://www.imdb.com/title/tt6932874/?ref_=nm_flmg_vsl_3)
 - [Trolls Holiday in Harmony](https://www.imdb.com/title/tt15720718/?ref_=nm_flmg_vsl_2)
 - [The Bad Guys](https://www.imdb.com/title/tt8115900/?ref_=nm_flmg_vsl_1)
-
-
+- [Avatar Feature One](https://www.imdb.com/title/tt18259538/?ref_=nm_flmg_unrel_1_vsl)
 
 
 <!---
