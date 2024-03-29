@@ -1,8 +1,8 @@
 Flameo, Hotman! 🔥  I'm Lisa, Principal Technical Artist at Skeleton Key Studio/Wizards of the Coast! 🗝️ 🧙‍♂️
 - 🐍 Python developer since 2009
 - 🎬 VFX/Animation/Games pipeline technician, also since 2009
-- 🌱 I’m currently learning Unreal Engine
-- 🎨 Focus departments have included 3D Story, Editorial, Matte Painting, Lighting, Modeling and Fantasy
+- 🌱 I’m currently learning Unreal Engine and Substance Painter
+- 🎨 Focus departments have included Surfacing, 3D Story, Editorial, Matte Painting, Lighting, Modeling and Fantasy
 - 🐕‍🦺 I have two German Shepherds; [Havoc and Astrid](http://www.instagram.com/derdoggens)
 - ✨ Gigantic Star Wars nerd
 - 🎻 Viola is life 
