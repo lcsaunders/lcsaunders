@@ -1,11 +1,11 @@
 Flameo, Hotman! 🔥  I'm Lisa, Principal VFX Design TD at Walt Disney Imagineering! ✨
 - 🐍 Python developer since 2009
 - 🎬 VFX/Animation/Games pipeline technician, also since 2009
-- 🌱 I’m currently learning Unreal Engine and Substance Painter
+- 🌱 I’m currently learning C++ for Nuke tools 
 - 🎨 Focus departments have included Surfacing, 3D Story, Editorial, Matte Painting, Lighting, Modeling and Fantasy
 - 🐕‍🦺 I have two German Shepherds; [Havoc and Astrid](http://www.instagram.com/derdoggens)
 - ✨ Gigantic Star Wars nerd
-- 🎻 Viola is life 
+- 🎻 Viola is life, I play with [Santa Clarita Symphony Orchestra](http://scsomusic.org)
 - 📸 Check out my costumes on my [Instagram](http://www.instagram.com/sewcorellian)
 
 Projects I've contributed code to:
