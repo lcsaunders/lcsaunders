@@ -25,7 +25,7 @@ Projects I've contributed code to:
 - [The Boss Baby: Family Business](https://www.imdb.com/title/tt6932874/?ref_=nm_flmg_vsl_3)
 - [Trolls Holiday in Harmony](https://www.imdb.com/title/tt15720718/?ref_=nm_flmg_vsl_2)
 - [The Bad Guys](https://www.imdb.com/title/tt8115900/?ref_=nm_flmg_vsl_1)
-- [Avatar: The Last Airbender Feature One](https://www.imdb.com/title/tt18259538/?ref_=nm_flmg_unrel_1_vsl)
+- [Avatar: The Legend of Aang](https://www.imdb.com/title/tt18259538/?ref_=nm_flmg_unrel_1_vsl)
 - Canceled spooky video game
 - ...and lots of future fun at Walt Disney Parks and Resorts worldwide!
 
