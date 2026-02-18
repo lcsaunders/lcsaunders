@@ -1,4 +1,4 @@
-Flameo, Hotman! 🔥  I'm Lisa, Principal Technical Artist at Skeleton Key Studio/Wizards of the Coast! 🗝️ 🧙‍♂️
+Flameo, Hotman! 🔥  I'm Lisa, Principal VFX Design TD at Walt Disney Imagineering! ✨
 - 🐍 Python developer since 2009
 - 🎬 VFX/Animation/Games pipeline technician, also since 2009
 - 🌱 I’m currently learning Unreal Engine and Substance Painter
@@ -26,7 +26,8 @@ Projects I've contributed code to:
 - [Trolls Holiday in Harmony](https://www.imdb.com/title/tt15720718/?ref_=nm_flmg_vsl_2)
 - [The Bad Guys](https://www.imdb.com/title/tt8115900/?ref_=nm_flmg_vsl_1)
 - [Avatar: The Last Airbender Feature One](https://www.imdb.com/title/tt18259538/?ref_=nm_flmg_unrel_1_vsl)
-- Unannounced spooky video game 
+- Canceled spooky video game
+- ...and lots of future fun at Walt Disney Parks and Resorts worldwide!
 
 
 <!---
